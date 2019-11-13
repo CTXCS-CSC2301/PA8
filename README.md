@@ -6,6 +6,8 @@ CSC2301 Programming Assignment 8
 
 When your program is working correctly you should get this result:
 
+    circumference of circle: 31.415000, area: 78.537500
+
 
 ## Grading Rubric
 
